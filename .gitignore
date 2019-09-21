@@ -43,3 +43,5 @@ build/
 /gradlew
 /gradlew.bat
 /gradle/wrapper/
+/.gradle
+/gradle
